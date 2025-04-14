@@ -3217,8 +3217,10 @@
 }, {
   "name": "wem",
   "icons": [{
-    "url": "ipfs://QmSuVbbBRAnquu3EsbsFgEMNgM8bTpiVKns2CCBVM6c2aJ",
-    "format": "svg"
+    "url": "ipfs://bafkreianwjcj56pf2cwlzl4jyuarqmxs6ewmfaz2aemxl74tdbg2fumps4",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "satoshivm",
@@ -3747,6 +3749,14 @@
     "width": 24,
     "height": 24,
     "format": "svg"
+  }]
+}, {
+  "name": "vcitychain",
+  "icons": [{
+    "url": "ipfs://bafkreiawfldsm6h56ug2md3hp6xeos3xoyqt6gnw4mepz2f6lzi6xcygli",
+    "width": 200,
+    "height": 200,
+    "format": "png"
   }]
 }, {
   "name": "eLiberty",
@@ -4586,6 +4596,14 @@
     "url": "ipfs://bafkreihsas2rwakc7lllmtb4pcgwutlel2woibmqmhd4aiin342zgtpmwy",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "gunz",
+  "icons": [{
+    "url": "ipfs://bafkreid7wspejxmvsqkycru3lnfppgqre6zavkyw4vklnzrhoiycqsjzpa",
+    "width": 320,
+    "height": 320,
     "format": "png"
   }]
 }, {
@@ -5471,8 +5489,10 @@
 }, {
   "name": "wemscan",
   "icons": [{
-    "url": "ipfs://QmSuVbbBRAnquu3EsbsFgEMNgM8bTpiVKns2CCBVM6c2aJ",
-    "format": "svg"
+    "url": "ipfs://bafkreianwjcj56pf2cwlzl4jyuarqmxs6ewmfaz2aemxl74tdbg2fumps4",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "songbird",
@@ -7219,6 +7239,14 @@
     "format": "png"
   }]
 }, {
+  "name": "onino",
+  "icons": [{
+    "url": "ipfs://QmW46cmj2fRUbfy3Fz9kyhm33BpXnNXZ4KW3vmK1z4Mg19",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "etpchain",
   "icons": [{
     "url": "ipfs://bafkreid4pi4wvhivaydzlflqqgdbddrmmc2szqtgsuhrp4hgfplg2z7ffe",
@@ -7744,6 +7772,14 @@
     "url": "ipfs://QmVES1eqDXhP8SdeCpM85wvjmhrQDXGRquQebDrSdvJqpt",
     "width": 792,
     "height": 822,
+    "format": "png"
+  }]
+}, {
+  "name": "kii",
+  "icons": [{
+    "url": "ipfs://bafkreib5kb73tb5fdvikhxe7nlnf4mmlfcfpsslalaplqfihypcmudlal4",
+    "width": 524,
+    "height": 524,
     "format": "png"
   }]
 }, {
